@@ -1,0 +1,26 @@
+.bgblack {
+  color: white;
+  background-color: black;
+  background-image: url("images/astros564x1004.jpg");
+  background-size: cover;
+}
+
+html,
+.vcntr {
+  height: 100%;
+}
+
+.ctxt {  
+  text-align: center;
+}
+
+.ltxt {
+  text-align: left;
+}
+
+.shdwbox {
+  background-color: rgba(35, 35, 35, 0.91);
+  border: 7px solid rgb(168, 135, 7);
+  padding: 7px;
+  margin: 7px;
+}
